@@ -7,7 +7,7 @@ import org.junit.Test;
 public class MainTest {
 
     @Test
-    public void exec() {
+    public void exec() throws Exception {
         new Main().exec();
     }
 }
