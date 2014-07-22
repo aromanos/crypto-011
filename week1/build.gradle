@@ -13,6 +13,7 @@ test {
 dependencies {
     compile 'org.slf4j:slf4j-api:1.6.1'
     compile 'junit:junit:4.+'
+    compile 'com.google.guava:guava:17.0'
     compile 'org.bouncycastle:bcprov-jdk15on:1.50'
     compile 'org.apache.commons:commons-lang3:3.3.2'
     testCompile 'ch.qos.logback:logback-classic:0.9.29'
